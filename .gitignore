@@ -1,0 +1,27 @@
+#Ignore All
+/*
+
+#Except:
+# Source Files
+!/src
+!/*conf
+!/test
+
+# Documentation
+!/license*.txt
+!/readme.txt
+
+# GitHub Files
+!.gitignore
+!/*.md
+
+# Gradle
+!/build.gradle
+!/build.properties
+!/settings.gradle
+!/gradle.properties
+!/gradlew*
+!/gradle
+
+# Project Files
+!/build.py
